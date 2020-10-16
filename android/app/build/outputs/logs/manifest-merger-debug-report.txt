@@ -1,0 +1,814 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:1:1-52:12
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:17:1-72:12
+MERGED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-55:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/73a73f4afcf6090629b86943348312dc/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-dynamic-links:16.1.5] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-dynamic-links-16.1.5.aar/0456afa189c41cae7e8f09b68c1db678/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-api-phone-16.0.0.aar/1982cdf65db5d92c79b219fe1080af30/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-base-16.0.0.aar/36071df5acdc09f2d86ce03c1a67a20b/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/3b298a902d377bb8597d4c6eb574a566/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.4.aar/67fecf614aaabe16cc8f94f1d4e321c6/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.0.4.aar/e31d18d0efd7ee490a7609dc2a3fa6d0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.4.aar/9549f6bb795e782be32b1d28ff6bbfae/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/a50ff63e1eec510bb75a07b48b2fc7ff/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/0dbaa21e7cbce7f14dc23044e1112c12/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/964bfc77f7d141b1b242d81e66d207c5/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/4b488bcf0af6a9d94483c7ac6d4288a7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/026d9a96250f628e4ed696a1f23789f3/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-base-16.0.5.aar/bb65ddae6092a240d2647cfc97696202/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/fc2238d85c504f7e727f8a2b7196f2aa/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/7d36cf60a53d015421574df14305686e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/18b47adc2ab83e88f0cc06d8a9106981/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/286713401ab6bfb3065c6ab17e8e24ff/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-google-signin] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/@react-native-community/google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-background-timer] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-calendar-events] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-calendar-events/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-community-async-storage] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_netinfo] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-immersive] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-immersive/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-keep-awake] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-webrtc] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-webrtc/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webview] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.61.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.3.aar/decd862ea672e8bb1dc84b9c303135e4/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/9ea4100a621a701e57340f615d5cab5d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.8.aar/6dc848da4c897a007f85a95c1c9ea9ee/AndroidManifest.xml:2:1-19:12
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/leakcanary-analyzer-1.6.1.aar/43886c19e4369a262fba1eb4c3c44efc/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/d32731c80e191df7628036c0f566ca41/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/61156b516ca8ac8959d11a9d9a1d4e05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/ab858112448836db3403b3c374c32531/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/0ef8647db67fd819f1168bf295beafa5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/c28b1e0663530c8b38d662b2ca926f18/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/3db2dc28bf65125a72ea6b1a32870a2d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/6827279ecc549b4d7b59daffe87ca8a4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/0f0aac253f97a72a7c3f6dd24279fb8c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/ca0268c91010faea60869fbb300e1371/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d5598868951b8a7367752703db9fd29a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/6a937022b3f99d6fe6d5d13b0171aa77/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/454ad134b94ebe733ca6288d2e20764d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/731ac717502df39363ce5baef914be3d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/d0c4d4f5aeab8afd34d1f25111e2e499/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/f340e2c734acc0facd75059394c36ba2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/7fce6da7892204847c8ae0081515762b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/662fb764a549139c7afc042158719b28/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/6dadb045826228a5509ece21c0369ed7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/86e3487b5fb58a32d8e8af6b45613f5e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/c9f7d6cb6b224cbff30a91c3739f4bc8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/faed05ec0ffae9df063f451a3c7d8172/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/a93c1a1ff5521aff1b80cd64fde5d14f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/926daa6e0afdcc5411713cb1cabce5f3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/a9574a2c282fad1c877123e0145cd713/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/de65066b71640d44b5213d24a0524c15/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/a6ad90499a86b4c1eea1f225a02d7a35/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/7e5af6b197f056878a0091186b5292a9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/89112a9a5f0996992250b4924f7a35a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/5489062044a9d54cbbe42398699d2847/AndroidManifest.xml:17:1-24:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/28bf7f6a6b150256517efc845e50518d/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.7] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.7.aar/7e4a2c27552815ad17a388e0a8c1c6f8/AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-answers-1.4.6.aar/22ff9799bc8720285b239c7594007942/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.7] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/fabric-1.4.7.aar/dda7a0469a6c3b7920ef1835f15326f7/AndroidManifest.xml:22:1-33:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/78c64591f1dbdf2b019aa5a561330e08/AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-timber-4.7.1.aar/15aa396c6182b75608e46d1d7d3b403e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.squareup.duktape:duktape-android:1.3.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-duktape-android-1.3.0.aar/4c602735923cd4269175e7ae58228645/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-linear-gradient] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-sound] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-sound/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/aaa8be5d1f9d06a04a5e7673cbad05fa/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/4e9d0e4f7adbaa0f8b9d17fe74e0d4b8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/9b5e4542758073c3769888514d174cfe/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/7675858366c7144152220adb750bf353/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/29d148fd12e699142b265fc28779a603/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/2edc898177521e24f10a03316b8e205a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/7f380351657e440f013af11ea5d2d986/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/0e1aa34962043cf0d9d0ed021bb7255a/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/383ac64d23d524ff08ea61dc904361e6/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:1:1-52:12
+INJECTED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:1:1-52:12
+	package
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:1:1-52:12
+		INJECTED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:1:1-52:12
+		INJECTED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:2:5-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:4:5-79
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:23:5-80
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:4:22-77
+application
+ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:6:5-51:17
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:26:5-70:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:26:5-70:19
+MERGED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:5-53:19
+MERGED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:5-53:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/73a73f4afcf6090629b86943348312dc/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/73a73f4afcf6090629b86943348312dc/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-dynamic-links:16.1.5] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-dynamic-links-16.1.5.aar/0456afa189c41cae7e8f09b68c1db678/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-dynamic-links:16.1.5] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-dynamic-links-16.1.5.aar/0456afa189c41cae7e8f09b68c1db678/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/3b298a902d377bb8597d4c6eb574a566/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/3b298a902d377bb8597d4c6eb574a566/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.4.aar/67fecf614aaabe16cc8f94f1d4e321c6/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.4.aar/67fecf614aaabe16cc8f94f1d4e321c6/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.0.4.aar/e31d18d0efd7ee490a7609dc2a3fa6d0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.0.4.aar/e31d18d0efd7ee490a7609dc2a3fa6d0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.4.aar/9549f6bb795e782be32b1d28ff6bbfae/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.4.aar/9549f6bb795e782be32b1d28ff6bbfae/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/a50ff63e1eec510bb75a07b48b2fc7ff/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/a50ff63e1eec510bb75a07b48b2fc7ff/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/0dbaa21e7cbce7f14dc23044e1112c12/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/0dbaa21e7cbce7f14dc23044e1112c12/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/964bfc77f7d141b1b242d81e66d207c5/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/964bfc77f7d141b1b242d81e66d207c5/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/4b488bcf0af6a9d94483c7ac6d4288a7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/4b488bcf0af6a9d94483c7ac6d4288a7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/026d9a96250f628e4ed696a1f23789f3/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/026d9a96250f628e4ed696a1f23789f3/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-base-16.0.5.aar/bb65ddae6092a240d2647cfc97696202/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-base-16.0.5.aar/bb65ddae6092a240d2647cfc97696202/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/fc2238d85c504f7e727f8a2b7196f2aa/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/fc2238d85c504f7e727f8a2b7196f2aa/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/7d36cf60a53d015421574df14305686e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/7d36cf60a53d015421574df14305686e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/18b47adc2ab83e88f0cc06d8a9106981/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/18b47adc2ab83e88f0cc06d8a9106981/AndroidManifest.xml:22:5-26:19
+MERGED from [:react-native-webview] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.61.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.3.aar/decd862ea672e8bb1dc84b9c303135e4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.3.aar/decd862ea672e8bb1dc84b9c303135e4/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.8.aar/6dc848da4c897a007f85a95c1c9ea9ee/AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.8.aar/6dc848da4c897a007f85a95c1c9ea9ee/AndroidManifest.xml:11:5-17:19
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/leakcanary-analyzer-1.6.1.aar/43886c19e4369a262fba1eb4c3c44efc/AndroidManifest.xml:22:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/leakcanary-analyzer-1.6.1.aar/43886c19e4369a262fba1eb4c3c44efc/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/662fb764a549139c7afc042158719b28/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/662fb764a549139c7afc042158719b28/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/a6ad90499a86b4c1eea1f225a02d7a35/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/a6ad90499a86b4c1eea1f225a02d7a35/AndroidManifest.xml:24:5-25:19
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/28bf7f6a6b150256517efc845e50518d/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/28bf7f6a6b150256517efc845e50518d/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.7] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.7.aar/7e4a2c27552815ad17a388e0a8c1c6f8/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.7] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.7.aar/7e4a2c27552815ad17a388e0a8c1c6f8/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-answers-1.4.6.aar/22ff9799bc8720285b239c7594007942/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-answers-1.4.6.aar/22ff9799bc8720285b239c7594007942/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.7] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/fabric-1.4.7.aar/dda7a0469a6c3b7920ef1835f15326f7/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.7] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/fabric-1.4.7.aar/dda7a0469a6c3b7920ef1835f15326f7/AndroidManifest.xml:31:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-timber-4.7.1.aar/15aa396c6182b75608e46d1d7d3b403e/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-timber-4.7.1.aar/15aa396c6182b75608e46d1d7d3b403e/AndroidManifest.xml:7:5-20
+MERGED from [com.squareup.duktape:duktape-android:1.3.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-duktape-android-1.3.0.aar/4c602735923cd4269175e7ae58228645/AndroidManifest.xml:12:5-20
+MERGED from [com.squareup.duktape:duktape-android:1.3.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-duktape-android-1.3.0.aar/4c602735923cd4269175e7ae58228645/AndroidManifest.xml:12:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/0e1aa34962043cf0d9d0ed021bb7255a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/0e1aa34962043cf0d9d0ed021bb7255a/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/662fb764a549139c7afc042158719b28/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:34:9-35
+	android:label
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:8:7-41
+	android:allowBackup
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:7:7-33
+	android:theme
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:networkSecurityConfig
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:11:7-67
+	android:name
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:10:7-38
+activity#org.jitsi.meet.MainActivity
+ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:23:5-50:16
+	android:label
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:25:9-41
+	android:launchMode
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:26:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:30:9-51
+	android:supportsPictureInPicture
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:29:9-48
+	android:resizeableActivity
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:28:9-42
+	android:configChanges
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:24:9-111
+	android:name
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:27:9-37
+meta-data#firebase_crashlytics_collection_enabled
+ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:31:7-97
+	android:value
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:31:73-94
+	android:name
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:31:18-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:32:7-35:23
+action#android.intent.action.MAIN
+ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:33:9-61
+	android:name
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:33:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:34:9-69
+	android:name
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:34:19-66
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:alpha.jitsi.net+data:host:beta.meet.jit.si+data:host:meet.jit.si+data:scheme:https+data:scheme:https+data:scheme:https
+ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:36:7-43:23
+action#android.intent.action.VIEW
+ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:37:9-61
+	android:name
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:37:17-58
+category#android.intent.category.BROWSABLE
+ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:38:9-70
+	android:name
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:38:19-67
+category#android.intent.category.DEFAULT
+ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:39:9-68
+	android:name
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:39:19-65
+data
+ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:40:9-71
+	android:host
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:40:15-45
+	android:scheme
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:40:46-68
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:org.jitsi.meet
+ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml:44:7-49:23
+uses-sdk
+INJECTED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:20:5-44
+MERGED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/73a73f4afcf6090629b86943348312dc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/73a73f4afcf6090629b86943348312dc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:16.1.5] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-dynamic-links-16.1.5.aar/0456afa189c41cae7e8f09b68c1db678/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:16.1.5] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-dynamic-links-16.1.5.aar/0456afa189c41cae7e8f09b68c1db678/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-api-phone-16.0.0.aar/1982cdf65db5d92c79b219fe1080af30/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-api-phone-16.0.0.aar/1982cdf65db5d92c79b219fe1080af30/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-base-16.0.0.aar/36071df5acdc09f2d86ce03c1a67a20b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-base-16.0.0.aar/36071df5acdc09f2d86ce03c1a67a20b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/3b298a902d377bb8597d4c6eb574a566/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/firebase-core-16.0.6.aar/3b298a902d377bb8597d4c6eb574a566/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.4.aar/67fecf614aaabe16cc8f94f1d4e321c6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.4.aar/67fecf614aaabe16cc8f94f1d4e321c6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.0.4.aar/e31d18d0efd7ee490a7609dc2a3fa6d0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-api-16.0.4.aar/e31d18d0efd7ee490a7609dc2a3fa6d0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.4.aar/9549f6bb795e782be32b1d28ff6bbfae/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.4.aar/9549f6bb795e782be32b1d28ff6bbfae/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/a50ff63e1eec510bb75a07b48b2fc7ff/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-interop-16.0.1.aar/a50ff63e1eec510bb75a07b48b2fc7ff/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/0dbaa21e7cbce7f14dc23044e1112c12/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/0dbaa21e7cbce7f14dc23044e1112c12/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/964bfc77f7d141b1b242d81e66d207c5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/964bfc77f7d141b1b242d81e66d207c5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/4b488bcf0af6a9d94483c7ac6d4288a7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/4b488bcf0af6a9d94483c7ac6d4288a7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/026d9a96250f628e4ed696a1f23789f3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-17.0.1.aar/026d9a96250f628e4ed696a1f23789f3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-base-16.0.5.aar/bb65ddae6092a240d2647cfc97696202/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-measurement-base-16.0.5.aar/bb65ddae6092a240d2647cfc97696202/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/fc2238d85c504f7e727f8a2b7196f2aa/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-stats-16.0.1.aar/fc2238d85c504f7e727f8a2b7196f2aa/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/7d36cf60a53d015421574df14305686e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-ads-identifier-16.0.0.aar/7d36cf60a53d015421574df14305686e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/18b47adc2ab83e88f0cc06d8a9106981/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/18b47adc2ab83e88f0cc06d8a9106981/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/286713401ab6bfb3065c6ab17e8e24ff/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/286713401ab6bfb3065c6ab17e8e24ff/AndroidManifest.xml:20:5-44
+MERGED from [:react-native-google-signin] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/@react-native-community/google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-signin] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/@react-native-community/google-signin/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-background-timer] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-background-timer] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-calendar-events] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-calendar-events/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-calendar-events] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-calendar-events/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community-async-storage] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community-async-storage] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-immersive] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-immersive/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-immersive] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-immersive/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-keep-awake] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-keep-awake] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-keep-awake/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-svg/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-webrtc] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-webrtc/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webrtc] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-webrtc/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.3.aar/decd862ea672e8bb1dc84b9c303135e4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-react-native-0.61.3.aar/decd862ea672e8bb1dc84b9c303135e4/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/9ea4100a621a701e57340f615d5cab5d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/9ea4100a621a701e57340f615d5cab5d/AndroidManifest.xml:20:5-22:41
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.8.aar/6dc848da4c897a007f85a95c1c9ea9ee/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.8.aar/6dc848da4c897a007f85a95c1c9ea9ee/AndroidManifest.xml:7:5-43
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/leakcanary-analyzer-1.6.1.aar/43886c19e4369a262fba1eb4c3c44efc/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/leakcanary-analyzer-1.6.1.aar/43886c19e4369a262fba1eb4c3c44efc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/d32731c80e191df7628036c0f566ca41/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/d32731c80e191df7628036c0f566ca41/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/61156b516ca8ac8959d11a9d9a1d4e05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/61156b516ca8ac8959d11a9d9a1d4e05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/ab858112448836db3403b3c374c32531/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/ab858112448836db3403b3c374c32531/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/0ef8647db67fd819f1168bf295beafa5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/0ef8647db67fd819f1168bf295beafa5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/c28b1e0663530c8b38d662b2ca926f18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/c28b1e0663530c8b38d662b2ca926f18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/3db2dc28bf65125a72ea6b1a32870a2d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/3db2dc28bf65125a72ea6b1a32870a2d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/6827279ecc549b4d7b59daffe87ca8a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/6827279ecc549b4d7b59daffe87ca8a4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/0f0aac253f97a72a7c3f6dd24279fb8c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/0f0aac253f97a72a7c3f6dd24279fb8c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/ca0268c91010faea60869fbb300e1371/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/ca0268c91010faea60869fbb300e1371/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d5598868951b8a7367752703db9fd29a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d5598868951b8a7367752703db9fd29a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/6a937022b3f99d6fe6d5d13b0171aa77/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/6a937022b3f99d6fe6d5d13b0171aa77/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/454ad134b94ebe733ca6288d2e20764d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/454ad134b94ebe733ca6288d2e20764d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/731ac717502df39363ce5baef914be3d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/731ac717502df39363ce5baef914be3d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/d0c4d4f5aeab8afd34d1f25111e2e499/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/d0c4d4f5aeab8afd34d1f25111e2e499/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/f340e2c734acc0facd75059394c36ba2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/f340e2c734acc0facd75059394c36ba2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/7fce6da7892204847c8ae0081515762b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/7fce6da7892204847c8ae0081515762b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/662fb764a549139c7afc042158719b28/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/662fb764a549139c7afc042158719b28/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/6dadb045826228a5509ece21c0369ed7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/6dadb045826228a5509ece21c0369ed7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/86e3487b5fb58a32d8e8af6b45613f5e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/86e3487b5fb58a32d8e8af6b45613f5e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/c9f7d6cb6b224cbff30a91c3739f4bc8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/c9f7d6cb6b224cbff30a91c3739f4bc8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/faed05ec0ffae9df063f451a3c7d8172/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/faed05ec0ffae9df063f451a3c7d8172/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/a93c1a1ff5521aff1b80cd64fde5d14f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/a93c1a1ff5521aff1b80cd64fde5d14f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/926daa6e0afdcc5411713cb1cabce5f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/926daa6e0afdcc5411713cb1cabce5f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/a9574a2c282fad1c877123e0145cd713/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/a9574a2c282fad1c877123e0145cd713/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/de65066b71640d44b5213d24a0524c15/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/de65066b71640d44b5213d24a0524c15/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/a6ad90499a86b4c1eea1f225a02d7a35/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/a6ad90499a86b4c1eea1f225a02d7a35/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/7e5af6b197f056878a0091186b5292a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/7e5af6b197f056878a0091186b5292a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/89112a9a5f0996992250b4924f7a35a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/89112a9a5f0996992250b4924f7a35a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/5489062044a9d54cbbe42398699d2847/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/5489062044a9d54cbbe42398699d2847/AndroidManifest.xml:20:5-22:41
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/28bf7f6a6b150256517efc845e50518d/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/28bf7f6a6b150256517efc845e50518d/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.7] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.7.aar/7e4a2c27552815ad17a388e0a8c1c6f8/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.7] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.7.aar/7e4a2c27552815ad17a388e0a8c1c6f8/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-answers-1.4.6.aar/22ff9799bc8720285b239c7594007942/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-answers-1.4.6.aar/22ff9799bc8720285b239c7594007942/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.7] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/fabric-1.4.7.aar/dda7a0469a6c3b7920ef1835f15326f7/AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.7] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/fabric-1.4.7.aar/dda7a0469a6c3b7920ef1835f15326f7/AndroidManifest.xml:27:5-43
+MERGED from [org.webkit:android-jsc:r245459] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/78c64591f1dbdf2b019aa5a561330e08/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/android-jsc-r245459.aar/78c64591f1dbdf2b019aa5a561330e08/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-timber-4.7.1.aar/15aa396c6182b75608e46d1d7d3b403e/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-timber-4.7.1.aar/15aa396c6182b75608e46d1d7d3b403e/AndroidManifest.xml:5:5-43
+MERGED from [com.squareup.duktape:duktape-android:1.3.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-duktape-android-1.3.0.aar/4c602735923cd4269175e7ae58228645/AndroidManifest.xml:8:5-10:41
+MERGED from [com.squareup.duktape:duktape-android:1.3.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-duktape-android-1.3.0.aar/4c602735923cd4269175e7ae58228645/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-linear-gradient] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-sound] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-sound/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-sound] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-sound/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/aaa8be5d1f9d06a04a5e7673cbad05fa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/fresco-2.0.0.aar/aaa8be5d1f9d06a04a5e7673cbad05fa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/4e9d0e4f7adbaa0f8b9d17fe74e0d4b8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-2.0.0.aar/4e9d0e4f7adbaa0f8b9d17fe74e0d4b8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/9b5e4542758073c3769888514d174cfe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/drawee-2.0.0.aar/9b5e4542758073c3769888514d174cfe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/7675858366c7144152220adb750bf353/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/nativeimagefilters-2.0.0.aar/7675858366c7144152220adb750bf353/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/29d148fd12e699142b265fc28779a603/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/imagepipeline-2.0.0.aar/29d148fd12e699142b265fc28779a603/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/2edc898177521e24f10a03316b8e205a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/nativeimagetranscoder-2.0.0.aar/2edc898177521e24f10a03316b8e205a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/7f380351657e440f013af11ea5d2d986/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-2.0.0.aar/7f380351657e440f013af11ea5d2d986/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/0e1aa34962043cf0d9d0ed021bb7255a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/0e1aa34962043cf0d9d0ed021bb7255a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/383ac64d23d524ff08ea61dc904361e6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-fbcore-2.0.0.aar/383ac64d23d524ff08ea61dc904361e6/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:24:22-78
+service#com.squareup.leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:27:9-30:45
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:30:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:28:13-80
+service#com.squareup.leakcanary.DisplayLeakService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:31:9-34:45
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:34:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:33:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:32:13-70
+provider#com.squareup.leakcanary.internal.LeakCanaryFileProvider
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:36:9-44:20
+	android:grantUriPermissions
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:40:13-47
+	android:authorities
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:38:13-88
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:37:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:41:13-43:66
+	android:resource
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:43:17-63
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:42:17-67
+activity#com.squareup.leakcanary.internal.DisplayLeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:46:9-59:20
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:51:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:48:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:50:13-71
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:49:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:53:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:52:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:47:13-80
+activity#com.squareup.leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:60:9-69:68
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:66:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:62:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:65:13-82
+	android:excludeFromRecents
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:63:13-46
+	android:roundIcon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:67:13-57
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:64:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:69:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:68:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.1.aar/9b512fb3c466b1e9ca6cedb9808f16b9/AndroidManifest.xml:61:13-93
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.4.aar/67fecf614aaabe16cc8f94f1d4e321c6/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.4.aar/67fecf614aaabe16cc8f94f1d4e321c6/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.4.aar/9549f6bb795e782be32b1d28ff6bbfae/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.4.aar/9549f6bb795e782be32b1d28ff6bbfae/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:22:5-79
+MERGED from [:react-native-community_netinfo] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+MERGED from [:react-native-community_netinfo] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.CAMERA
+ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-62
+uses-permission#android.permission.INTERNET
+ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.4.aar/67fecf614aaabe16cc8f94f1d4e321c6/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.4.aar/67fecf614aaabe16cc8f94f1d4e321c6/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.4.aar/9549f6bb795e782be32b1d28ff6bbfae/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.4.aar/9549f6bb795e782be32b1d28ff6bbfae/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:23:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.8.aar/6dc848da4c897a007f85a95c1c9ea9ee/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.8.aar/6dc848da4c897a007f85a95c1c9ea9ee/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/28bf7f6a6b150256517efc845e50518d/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/28bf7f6a6b150256517efc845e50518d/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.7] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.7.aar/7e4a2c27552815ad17a388e0a8c1c6f8/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.7] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.7.aar/7e4a2c27552815ad17a388e0a8c1c6f8/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-answers-1.4.6.aar/22ff9799bc8720285b239c7594007942/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-answers-1.4.6.aar/22ff9799bc8720285b239c7594007942/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.7] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/fabric-1.4.7.aar/dda7a0469a6c3b7920ef1835f15326f7/AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.7] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/fabric-1.4.7.aar/dda7a0469a6c3b7920ef1835f15326f7/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.MANAGE_OWN_CALLS
+ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-72
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:22-68
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.4.aar/67fecf614aaabe16cc8f94f1d4e321c6/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.4.aar/67fecf614aaabe16cc8f94f1d4e321c6/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.4.aar/9549f6bb795e782be32b1d28ff6bbfae/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.4.aar/9549f6bb795e782be32b1d28ff6bbfae/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:24:5-68
+MERGED from [:react-native-background-timer] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-68
+MERGED from [:react-native-background-timer] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-background-timer/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:22-73
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:5-77
+	android:name
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:22-74
+uses-feature#0x00020000
+ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:5-23:35
+	android:glEsVersion
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:9-41
+	android:required
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:23:9-32
+uses-feature#android.hardware.camera
+ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:9-57
+activity#org.jitsi.meet.sdk.JitsiMeetActivity
+ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:35:9-42:20
+	android:launchMode
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:38:13-44
+	android:windowSoftInputMode
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:41:13-55
+	android:supportsPictureInPicture
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:40:13-52
+	android:resizeableActivity
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:39:13-46
+	android:configChanges
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:37:13-115
+	android:name
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:36:13-64
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:9-86
+	android:name
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:43:19-83
+service#org.jitsi.meet.sdk.ConnectionService
+ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:45:9-51:19
+	android:permission
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:47:13-84
+	android:name
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:46:13-64
+intent-filter#action:name:android.telecom.ConnectionService
+ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:48:13-50:29
+action#android.telecom.ConnectionService
+ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:49:17-76
+	android:name
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:49:25-73
+service#org.jitsi.meet.sdk.JitsiMeetOngoingConferenceService
+ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:9-88
+	android:name
+		ADDED from [:sdk] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/android/sdk/build/intermediates/library_manifest/debug/AndroidManifest.xml:52:18-85
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/73a73f4afcf6090629b86943348312dc/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/73a73f4afcf6090629b86943348312dc/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/73a73f4afcf6090629b86943348312dc/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/73a73f4afcf6090629b86943348312dc/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/73a73f4afcf6090629b86943348312dc/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/73a73f4afcf6090629b86943348312dc/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/73a73f4afcf6090629b86943348312dc/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/73a73f4afcf6090629b86943348312dc/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-auth-16.0.1.aar/73a73f4afcf6090629b86943348312dc/AndroidManifest.xml:34:13-89
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-dynamic-links:16.1.5] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-dynamic-links-16.1.5.aar/0456afa189c41cae7e8f09b68c1db678/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.4.aar/67fecf614aaabe16cc8f94f1d4e321c6/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.4.aar/67fecf614aaabe16cc8f94f1d4e321c6/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-dynamic-links:16.1.5] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-dynamic-links-16.1.5.aar/0456afa189c41cae7e8f09b68c1db678/AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:com.google.firebase.dynamiclinks.internal.FirebaseDynamicLinkRegistrar
+ADDED from [com.google.firebase:firebase-dynamic-links:16.1.5] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-dynamic-links-16.1.5.aar/0456afa189c41cae7e8f09b68c1db678/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [com.google.firebase:firebase-dynamic-links:16.1.5] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-dynamic-links-16.1.5.aar/0456afa189c41cae7e8f09b68c1db678/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-dynamic-links:16.1.5] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-dynamic-links-16.1.5.aar/0456afa189c41cae7e8f09b68c1db678/AndroidManifest.xml:10:17-133
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.4.aar/67fecf614aaabe16cc8f94f1d4e321c6/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.4.aar/67fecf614aaabe16cc8f94f1d4e321c6/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-measurement-connector-impl-17.0.4.aar/67fecf614aaabe16cc8f94f1d4e321c6/AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.4.aar/9549f6bb795e782be32b1d28ff6bbfae/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.4.aar/9549f6bb795e782be32b1d28ff6bbfae/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.4.aar/9549f6bb795e782be32b1d28ff6bbfae/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-impl-16.2.4.aar/9549f6bb795e782be32b1d28ff6bbfae/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-analytics-16.0.6.aar/ed76aceb0dd8c8a5645da74ab818228d/AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-iid-17.0.3.aar/7100bcb1cf86a73b764f762a37ce064d/AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/0dbaa21e7cbce7f14dc23044e1112c12/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/0dbaa21e7cbce7f14dc23044e1112c12/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/0dbaa21e7cbce7f14dc23044e1112c12/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/0dbaa21e7cbce7f14dc23044e1112c12/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/964bfc77f7d141b1b242d81e66d207c5/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/964bfc77f7d141b1b242d81e66d207c5/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/964bfc77f7d141b1b242d81e66d207c5/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/964bfc77f7d141b1b242d81e66d207c5/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-firebase-common-16.0.3.aar/964bfc77f7d141b1b242d81e66d207c5/AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/18b47adc2ab83e88f0cc06d8a9106981/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/18b47adc2ab83e88f0cc06d8a9106981/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/18b47adc2ab83e88f0cc06d8a9106981/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from [:react-native-calendar-events] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-calendar-events/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-73
+	android:name
+		ADDED from [:react-native-calendar-events] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-calendar-events/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-70
+uses-permission#android.permission.READ_CALENDAR
+ADDED from [:react-native-calendar-events] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-calendar-events/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-72
+	android:name
+		ADDED from [:react-native-calendar-events] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-calendar-events/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-69
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /Users/sonalibandal/Desktop/Gitcode/JitsiMeetScreenRecording/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.8.aar/6dc848da4c897a007f85a95c1c9ea9ee/AndroidManifest.xml:12:9-16:38
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.8.aar/6dc848da4c897a007f85a95c1c9ea9ee/AndroidManifest.xml:14:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.8.aar/6dc848da4c897a007f85a95c1c9ea9ee/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.8.aar/6dc848da4c897a007f85a95c1c9ea9ee/AndroidManifest.xml:16:13-35
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /Users/sonalibandal/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.8.aar/6dc848da4c897a007f85a95c1c9ea9ee/AndroidManifest.xml:13:13-75

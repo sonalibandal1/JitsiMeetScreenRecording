@@ -1,0 +1,1 @@
+[{"outputType":{"type":"BUNDLE_MANIFEST"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":5652622,"versionName":"19.5.0","enabled":true,"outputFile":"app-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"org.jitsi.meet","split":"","minSdkVersion":"21"}}]
